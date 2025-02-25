@@ -25,6 +25,8 @@ This **Power BI Dashboard** provides in-depth insights into employee data, helpi
 
 ## 📷 Dashboard Preview
 <img width="579" alt="image" src="https://github.com/user-attachments/assets/643a9439-4181-465e-a011-1105d50ade8d" />
+
+
 Power BI Dashboard Explanation
 This Power BI dashboard provides a comprehensive analysis of sales, profit, discounts, and returns across different regions, categories, and products. Below is a breakdown of its key components:
 
@@ -63,7 +65,13 @@ High return rates in Western US, Western Europe, and Southern Asia may require f
 ✅ Central Asia has negative profit—analyze costs, pricing, and market demand.
 ✅ Technology is the most profitable category—prioritize marketing and inventory for this category.
 ✅ High returns in some regions—review customer feedback and quality control.
+
+
+
 <img width="394" alt="image" src="https://github.com/user-attachments/assets/c9c6a1d5-2404-49f9-a62d-4c548035ae71" />
+
+
+
 This image appears to be a Power BI dashboard screenshot that provides insights into discounts by product name and profit by region, along with a return status report.
 
 🔍 Breakdown of the Dashboard Elements:
